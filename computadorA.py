@@ -28,5 +28,3 @@ def processo1(cliente):
     m = a.dot(b)
     cliente.send(m.tostring())
     mutex1 = 0
-
-
